@@ -1,0 +1,12 @@
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\bin\Debug\A-726.exe.config
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\bin\Debug\A-726.exe
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\bin\Debug\A-726.pdb
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\bin\Debug\A-726.xml
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.vbprojAssemblyReference.cache
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A_726.Form1.resources
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A_726.Resources.resources
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.vbproj.GenerateResource.cache
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.vbproj.CoreCompileInputs.cache
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.exe
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.xml
+C:\Users\88690\Desktop\VisualBasic\A-726\A-726\obj\Debug\A-726.pdb
